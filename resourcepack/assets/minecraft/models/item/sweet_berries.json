@@ -1,0 +1,26 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "item/sweet_berries"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "item/sweet_berries/grapes"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/sweet_berries/grapes_block"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "item/sweet_berries/empty_grapes_block"
+        }
+    ]
+}

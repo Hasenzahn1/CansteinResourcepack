@@ -1,0 +1,17 @@
+{
+  "bell": {
+    "sounds": [
+      "event:bell/bell-1"
+    ]
+  },
+  "einstieg": {
+    "sounds": [
+      "event:einstieg/einstieg"
+    ]
+  },
+  "oh-du-froehliche": {
+    "sounds": [
+      "event:oh-du-froehliche/oh-du-froehliche"
+    ]
+  }
+}

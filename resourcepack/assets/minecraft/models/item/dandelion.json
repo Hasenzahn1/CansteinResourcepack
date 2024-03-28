@@ -1,0 +1,20 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "block/dandelion"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "item/dandelion/ox_tongue"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/dandelion/ox_tongue_block"
+        }
+    ]
+}
