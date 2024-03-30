@@ -13,22 +13,42 @@
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "item/apple/apple_g1"
+            "model": "item/apple/apple_stage0"
         },{
             "predicate": {
                 "custom_model_data": 3
             },
-            "model": "item/apple/apple_g2"
+            "model": "item/apple/apple_stage1"
         },{
             "predicate": {
                 "custom_model_data": 4
             },
-            "model": "item/apple/apple_g3"
+            "model": "item/apple/apple_stage2"
         },{
             "predicate": {
                 "custom_model_data": 5
             },
-            "model": "item/apple/apple_g4"
+            "model": "item/apple/apple_stage3"
+        },{
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "item/apple/apple_stage4"
+        },{
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "item/apple/apple_stage5"
+        },{
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "item/apple/apple_stage6"
+        },{
+            "predicate": {
+                "custom_model_data": 9
+            },
+            "model": "item/apple/apple_stage7"
         }
     ]
 }

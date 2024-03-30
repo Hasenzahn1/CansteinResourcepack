@@ -13,5 +13,10 @@
     "sounds": [
       "event:oh-du-froehliche/oh-du-froehliche"
     ]
+  },
+  "praise": {
+    "sounds": [
+      "event:praise/praise"
+    ]
   }
 }
