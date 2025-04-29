@@ -18,5 +18,10 @@
     "sounds": [
       "event:praise/praise"
     ]
+  },
+  "waymaker": {
+    "sounds": [
+      "event:waymaker/waymaker"
+    ]
   }
 }
