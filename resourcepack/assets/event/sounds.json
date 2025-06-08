@@ -23,5 +23,10 @@
     "sounds": [
       "event:waymaker/waymaker"
     ]
+  },
+  "zweifel": {
+    "sounds": [
+      "event:zweifel/zweifel"
+    ]
   }
 }
